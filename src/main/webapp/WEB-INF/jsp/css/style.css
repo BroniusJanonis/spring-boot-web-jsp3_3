@@ -1,0 +1,59 @@
+.backgroundclass{
+    width: 100%;
+    height: 100%;
+    background-image:url("img/rosee1.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+
+}
+/*#background{*/
+    /*opacity: 0.2;*/
+/*}*/
+
+.mainlogin1{
+    height: 400px;
+    background-color: rgba(211, 151, 139, 0.65);
+   }
+.mainlogin2{
+    height: 650px;
+    background-color: rgba(211, 151, 139, 0.65);
+}
+.imgborder{
+    width:100px;
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    }
+
+.form-control2 {
+    display: block;
+    margin-top: 20px;
+    /*margin-left: 100px;*/
+    width: 350px;
+    height: 34px;
+    /*padding: 27px 24px;*/
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #cde2dc;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    /*-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);*/
+    /*box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);*/
+    /*-webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;*/
+    /*-o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;*/
+    /*transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;*/
+}
+.btn1{
+    margin-top: 10px;
+    width: 80px;
+    height: 34px;
+    /*margin-left: 100px;*/
+
+    background-color: rgba(203, 34, 100, 0.5);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+
+}

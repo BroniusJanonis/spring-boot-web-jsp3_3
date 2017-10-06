@@ -1,0 +1,1 @@
+labas, cia yra text.txt failas
